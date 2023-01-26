@@ -17,9 +17,9 @@ Esta é uma solução para a Quest proposta pelo curso DevQuest do @devemdobro, 
 
 ## Mobile 📱
 
-<img src="./screenshots/mobile.png">
+<img src="./screenshots/Mobile.png">
 
-<img src="./screenshots/mobile-actived.png">
+<img src="./screenshots/Mobile-actived.png">
 
 # Tecnologias utilizadas 🚀
 <ul>
