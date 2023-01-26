@@ -30,6 +30,6 @@ Esta é uma solução para a Quest proposta pelo curso DevQuest do @devemdobro, 
 
 # Links
 <ul>
-    <li><a link="https://deivid-rodrigues.github.io/formulario-com-validacao-de-dados/">GitHub Pages</a></li>
-    <li><a link="https://github.com/deivid-rodrigues/formulario-com-validacao-de-dados">Repositório</a></li>
+    <li><a href="https://deivid-rodrigues.github.io/formulario-com-validacao-de-dados/">GitHub Pages:</a></li>
+    <li><a href="https://github.com/deivid-rodrigues/formulario-com-validacao-de-dados">Repositório</a></li>
 </ul>
