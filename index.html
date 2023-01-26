@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/estilo.css">
+    <link rel="stylesheet" href="./src/css/responsivo.css">
+
+    <title>Formulário</title>
+</head>
+
+<body>
+    <main class="container">
+        <div class="box-text">
+            <h1>
+                FICOU COM DÚVIDA? <br>
+                NOS MANDE UMA MENSAGEM!
+            </h1>
+
+            <p>
+                caso tenha ficado com qualquer dúvida basta nos mandar uma mensagem e entraremos em contato em menos de
+                24h.
+            </p>
+        </div>
+
+        <div class="box-formulario">
+
+            <div class="inputs">
+                <input type="text" class="inputs-itens" name="input-texto" placeholder="Nome completo *">
+            </div>
+
+            <div class="inputs">
+                <input type="email" class="inputs-itens" name="input-email" placeholder="Email *">
+            </div>
+
+            <div class="inputs">
+                <input type="tel" class="inputs-itens" name="input-numero" placeholder="Telefone *">
+            </div>
+
+            <div class="inputs textarea">
+                <textarea class="inputs-itens" rows="5" placeholder="Mensagem *"></textarea>
+            </div>
+
+            <p class="aviso">
+                *campos obrigatórios
+            </p>
+
+            <button class="botao">Enviar</button>
+        </div>
+    </main>
+
+    <script src="./src/javascript/form.js"></script>
+</body>
+
+</html>

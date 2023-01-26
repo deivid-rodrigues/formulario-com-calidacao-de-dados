@@ -1,0 +1,25 @@
+@media (max-width: 765px) {
+    .container {
+        flex-direction: column;
+        gap: 35px;
+    }
+
+    .box-text {
+        text-align: center;
+    }
+
+    .box-formulario {
+        width: 300px;
+    }
+}
+
+@media (max-width: 321px) {
+    .box-text p {
+        font-size: 1.3rem;
+        width: 280px;
+    }
+
+    .box-formulario {
+        width: 280px;
+    }
+}
